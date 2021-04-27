@@ -1,0 +1,5 @@
+type ReactNativePureWebSocket @model {
+  id: ID!
+  name: String!
+  description: String
+}
